@@ -1,15 +1,38 @@
-💻 Programación 2
-Tecnicatura Universitaria en Programación
-📍 Universidad Tecnológica Nacional
+\# 💻 Programación 2 – Tecnicatura Universitaria en Programación
 
-✨ Estudiante
-Nombre: Alvarez Mesegues, Jose Matias
-Comisión: 18
-📂 Descripción del Repositorio
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Programación 2.
 
-📌 Estructura del repositorio:
 
-Cada trabajo está organizado en carpetas individuales.
-Los archivos de código fuente en Java incluyen comentarios y estructura adecuada.
-Se busca mantener un código limpio, ordenado y bien documentado.
+📍 \*\*Universidad Tecnológica Nacional\*\*
+
+👨‍🎓 \*\*Estudiante:\*\* Alvarez Mesegues, Jose Matias
+
+📝 \*\*Comisión:\*\* 18
+
+
+
+---
+
+
+
+\## 📂 Descripción del Repositorio
+
+
+
+Este repositorio contiene todos los \*\*trabajos prácticos\*\* realizados durante la cursada de \*\*Programación 2\*\*.
+
+El objetivo es documentar, organizar y versionar los códigos fuente desarrollados a lo largo de la materia.
+
+
+
+Cada carpeta corresponde a un trabajo práctico específico, incluyendo:
+
+\- Código fuente en \*\*Java\*\*.
+
+\- Comentarios y documentación en el código.
+
+\- Ejemplos y casos de prueba.
+
+
+
+---
+
